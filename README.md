@@ -5,7 +5,7 @@ I'm a software engineering student. I specialize in backend development and enjo
 
 ## 🚀 Technologies & Tools  
 - ⚡ Frontend: React, Next.js, TailwindCSS, CCS3  
-- 🔧 Backend: Node.js, Express, Django, C# .NET  
+- 🔧 Backend: Node.js, Django, C# .NET  
 - 🛠️ Databases: PostgreSQL, MongoDB, Oracle Database  
 - ☁️ DevOps & Cloud: AWS (Amplify, Cognito, Elastic Beanstalk), Docker
 - 📱 Mobile Apps: Flutter
@@ -15,6 +15,7 @@ I'm a software engineering student. I specialize in backend development and enjo
 
 ## 📫 Connect with me  
 - ✉️ anascorivadeneira3@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/silvia-a%C3%B1asco-25648b342/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/silvia-a%C3%B1asco-25648b342/)
+- 📁 [Portfolio](https://portfolio-gs3eudhek-silvia-anascos-projects.vercel.app/)
 
 🚀 Always eager to learn. Let’s collaborate on something great!  
